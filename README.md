@@ -32,7 +32,6 @@
 
 ---
 
-<img align="right" height="150" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 
 ## 🔧 My Favourite Tools & Languages
 <p align="left">
