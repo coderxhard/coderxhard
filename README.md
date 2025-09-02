@@ -94,7 +94,7 @@
 
 ### 👀 Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mayank-cyber-cell&label=Visitors&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=dhanushnehru&label=Profile%20views&color=0e75b6&style=flat" alt="dhanushnehru" />
 </p>
 
 ---
