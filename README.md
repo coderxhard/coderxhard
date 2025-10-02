@@ -42,8 +42,8 @@
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayank-cyber-cell&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Mayank-cyber-cell&theme=tokyonight&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=web-dev-Vivek&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=web-dev-Vivek&theme=tokyonight&hide_border=false" height="150"/>
 </p>
 
 <p align="center">
